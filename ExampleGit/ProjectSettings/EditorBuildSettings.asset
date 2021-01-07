@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Spine Examples/Getting Started/1 The Spine GameObject.unity
+    guid: fff6e9ad77d93024a9a87f6f2c0a6b3e
   m_configObjects: {}
